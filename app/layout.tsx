@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     title: 'Casey Chiang | Producer & Journalist',
     description:
       'Clear, human journalism across breaking news, political and global affairs reporting, live production, and long-form interviews.',
-    url: 'https://cchiang98.github.io/',
+    url: 'https://caseychiang.github.io/',
     siteName: 'Casey Chiang',
     images: [
       {
-        url: 'https://cchiang98.github.io/og.png',
+        url: 'https://caseychiang.github.io/og.png',
         width: 1200,
         height: 630,
         alt: 'Casey Chiang | Producer & Journalist',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     title: 'Casey Chiang | Producer & Journalist',
     description:
       'Clear, human journalism across breaking news, political and global affairs reporting, live production, and long-form interviews.',
-    images: ['https://cchiang98.github.io/og.png'],
+    images: ['https://caseychiang.github.io/og.png'],
   },
 };
 
