@@ -1,6 +1,6 @@
 # Casey Chiang | Producer & Journalist
 
-Source for [Casey Chiang's media portfolio](https://cchiang98.github.io/),
+Source for [Casey Chiang's media portfolio](https://caseychiang.github.io/),
 featuring selected work across breaking news, global affairs, political
 reporting, long-form interviews, and digital audience strategy.
 
