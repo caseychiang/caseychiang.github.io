@@ -54,6 +54,20 @@ const projects = [
     videoTitle:
       'Defending the Right to Think Freely in the Age of Neurotech',
   },
+  {
+    index: '05',
+    format: 'Culture',
+    title: 'Inside Lin-Manuel Miranda’s reinvention of a New York cult classic.',
+    premise:
+      'Lin-Manuel Miranda and Eisa Davis transformed a touchstone of 1970s New York into a concept album, reconsidering its characters, gender, genres, and journey through the city.',
+    role: 'Amanpour & Company',
+    note:
+      'I sourced and coordinated all of the interview’s visual elements, including B-roll, and wrote questions tracing the project from the original film’s legacy to the creative choices that made the retelling contemporary.',
+    theme: 'field',
+    videoId: '5Hg5CHcktf0',
+    videoTitle:
+      'Lin-Manuel Miranda and Eisa Davis on their concept album Warriors',
+  },
 ];
 
 export default function Home() {
