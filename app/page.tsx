@@ -241,10 +241,11 @@ export default function Home() {
             </div>
             <figure className="about-portrait">
               <img
-                src="/casey-chiang-portrait.jpg"
-                alt="Casey Chiang working at a television production desk"
-                width="4608"
-                height="3456"
+                className="about-portrait-mature"
+                src="/casey-chiang-portrait-mature.jpg"
+                alt="Casey Chiang standing outside in New York"
+                width="856"
+                height="1200"
                 loading="lazy"
                 decoding="async"
               />
